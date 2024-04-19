@@ -5,7 +5,7 @@
 Hey! DEVELOPERS 👋, I'm MAHAK GARG
 </h1>
 <h4>
-I'm self-motivated 💫 and hardworking 🦾 frontend developer fresher seeking for an
+I'm self-motivated 💫 and hardworking 🦾 software developer fresher seeking for an
 opportunity to work in a challenging environment to prove my
 skills and utilize my knowledge & intelligence in the growth of the
 organization. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding ⌨ and the ability to write clean and efficient code 💻. Like to work in group.
@@ -21,12 +21,12 @@ I'm a Developer and learner ⚡⚡
 </h2>
 <br>
 <h4>
-- 👱‍♀️ Hey! I'm Mahak garg , a 19 year old frontend developer.<br><br>
-- 🔭 I’m currently working for frontend of websites using HTML5, CSS,   JAVASCRIPT.<br><br>
-- 🌱 I’m currently learning Web APIs, php, Git.<br><br>
-- 💬 Ask me about MySQL, JAVASCRIPT. <br><br>
+- 👱‍♀️ Hey! I'm Mahak garg , a 20 year old software developer.<br><br>
+- 🔭 I’m currently working for frontend and backend development.<br><br>
+- 🌱 I’m currently learning data algorithms.<br><br>
+- 💬 Ask me about MERN/ MEAN development. <br><br>
 - 📫 How to reach me: <a href="mailto:mahak191713@gmail.com">mahak191713@gmail.com </a><br><br>
-- 👩‍🎓 About me <a href="https://mahak0804.github.io/PORTFOLIO/"> Portfolio </a><br><br><br><br>
+- 👩‍🎓 About me <a href="https://mahak-portfolio-omega.vercel.app/"> Portfolio </a><br><br><br><br>
 🤝 I am an extrovert person, feel free to contact me regarding any idea for projects or help... we will work together.🤗🤗<br><br><br><br>
 </h4>
 <h3>
