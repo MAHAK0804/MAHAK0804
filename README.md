@@ -15,11 +15,11 @@ organization. Highly passionate about building web applications and confident en
 <h2>
 About ME 😎
 </h2>
-<img src="https://user-images.githubusercontent.com/111964960/232255135-d772da56-fa76-411a-8faa-a89f2b099ea7.png" align="right">
 <h2>
+<img src="https://img.freepik.com/premium-photo/sticker-girl-learning-coding-fundamental-creative-design-bold-line-cute-kawaii-st_655090-455242.jpg" width="500px" height="400px" align="right">
+
 I'm a Developer and learner ⚡⚡
 </h2>
-<br>
 <h4>
 - 👱‍♀️ Hey! I'm Mahak garg , a 20 year old software developer.<br><br>
 - 🔭 I’m currently working for frontend and backend development.<br><br>
