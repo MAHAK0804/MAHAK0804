@@ -21,10 +21,10 @@ About ME 😎
 I'm a Developer and learner ⚡⚡
 </h2>
 <h4>
-- 👱‍♀️ Hey! I'm Mahak garg , a 20 year old software developer.<br><br>
+- 👱‍♀️ Hey! I'm Mahak garg , a developer.<br><br>
 - 🔭 I’m currently working for frontend and backend development.<br><br>
 - 🌱 I’m currently learning data algorithms.<br><br>
-- 💬 Ask me about MERN/ MEAN development. <br><br>
+- 💬 Ask me about MERN development. <br><br>
 - 📫 How to reach me: <a href="mailto:mahak191713@gmail.com">mahak191713@gmail.com </a><br><br>
 - 👩‍🎓 About me <a href="https://mahak-portfolio-kekk.vercel.app/"> Portfolio </a><br><br><br><br>
 🤝 I am an extrovert person, feel free to contact me regarding any idea for projects or help... we will work together.🤗🤗<br><br><br><br>
