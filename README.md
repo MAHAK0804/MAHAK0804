@@ -35,7 +35,7 @@ I'm a Software Developer passionate about Web Development. Currently, I’m expl
 [![MACDOC-Chat appliction](https://img.shields.io/badge/Chat%20Application-0088CC?style=for-the-badge&logo=wechat&logoColor=white)](https://chat-application-lovat-ten.vercel.app/login)
 
 ### [Vidhyaghar-Online Education](https://github.com/MAHAK0804/deploy_MERN)
-[![Vidhyaghar-Online Education](https://img.shields.io/badge/Online%20Education%20Platform-00C853?style=for-the-badge&logo=google-classroom&logoColor=white)]((https://deploy-mern-delta.vercel.app/))
+[![Vidhyaghar-Online Education](https://img.shields.io/badge/Online%20Education%20Platform-00C853?style=for-the-badge&logo=google-classroom&logoColor=white)](https://deploy-mern-delta.vercel.app/)
 
 
 ## 📫 Connect with me:
@@ -43,5 +43,5 @@ I'm a Software Developer passionate about Web Development. Currently, I’m expl
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MahakGa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahakgarg_3001/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MAHAK_0802/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahak191713@gmail.com)
 
