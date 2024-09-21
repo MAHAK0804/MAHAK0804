@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" >
+<img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="100%" >
 # 👋 Hello, I'm MAHAK!
 
 ## 🚀 About Me
@@ -45,3 +45,11 @@ I'm a Software Developer passionate about Web Development. Currently, I’m expl
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MAHAK_0802/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahak191713@gmail.com)
 
+## 🏆 GitHub Trophies
+![Your Trophies](https://github-profile-trophy.vercel.app/?username=MAHAK0804&theme=radical&no-frame=true&row=1&column=4)
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=MAHAK0804&color=brightgreen)
+
+## 🤝 Follow Me
+[![Follow](https://img.shields.io/badge/Follow-@MAHAK0804-blue)](https://github.com/MAHAK0804)
