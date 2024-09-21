@@ -53,3 +53,6 @@ I'm a Software Developer passionate about Web Development. Currently, I’m expl
 
 ## 🤝 Follow Me
 [![Follow](https://img.shields.io/badge/Follow-@MAHAK0804-blue)](https://github.com/MAHAK0804)
+
+## 💬 Random Dev Quote
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
